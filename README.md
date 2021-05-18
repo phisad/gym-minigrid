@@ -151,8 +151,8 @@ Actions in the basic environment:
 - Turn left
 - Turn right
 - Move forward
-- Pick up an object
-- Drop the object being carried
+- Pick up an object (in front)
+- Drop the object being carried (in front)
 - Toggle (open doors, interact with objects)
 - Done (task completed, optional)
 
